@@ -14,7 +14,7 @@ public class WordCRUD implements ICRUD {
 
     @Override
     public Object add() {
-        // TODO Auto-generated method stub
+
         System.out.print("=> 난이도(1,2,3) & 새 단어 입력 : ");
         //1.drive way
         int level = s.nextInt();
