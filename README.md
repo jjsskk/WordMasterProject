@@ -14,6 +14,6 @@
 
 # 4. 단어추가2
 
-<img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/4%EB%8B%A8%EC%96%B4%EC%B6%94%EA%B0%80%202.png?raw=true' width =700>
+<img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/4%EB%8B%A8%EC%96%B4%EC%B6%94%EA%B0%80%202.png?raw=true' width =900>
 
 
