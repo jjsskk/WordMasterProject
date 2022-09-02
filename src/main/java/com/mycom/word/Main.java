@@ -5,5 +5,6 @@ public class Main {
         new WordManager().start();//시작
 
 
+
     }
 }
