@@ -1,4 +1,4 @@
-# WordMasterProject
+# Project1. Java CRUD project with file I/O
 
 # 1. 실행화면
 
