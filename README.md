@@ -40,4 +40,7 @@
 
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/6.%EB%8B%A8%EC%96%B4%EC%82%AD%EC%A0%9C.png?raw=true' width =900>
 
+# 10. 파일저장
+
+<img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/7%ED%8C%8C%EC%9D%BC%20%EC%A0%80%EC%9E%A5.png?raw=true' width =900>
 
