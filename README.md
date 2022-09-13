@@ -23,3 +23,13 @@
 # 6. 나가기
 
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EC%A2%85%EB%A3%8C.png?raw=true' width =900>
+
+# 7. 수준별단어보기
+
+<img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/2.%20%EC%88%98%EC%A4%80%EB%B3%84%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0.png?raw=true' width =900>
+
+# 8. 단어검
+
+<img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/3.%EB%8B%A8%EC%96%B4%EA%B2%80%EC%83%89.png?raw=true' width =900>
+
+
