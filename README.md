@@ -24,10 +24,13 @@
 
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EC%A2%85%EB%A3%8C.png?raw=true' width =900>
 
-
 # 7. 초기사전목록
 
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EC%B4%88%EA%B8%B0%20%EC%82%AC%EC%A0%84.png?raw=true' width =900>
+
+# 8. 프로그램 새로 실행후 파일의 모든단어 불러온뒤 모든단어보기
+
+<img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%83%88%EB%A1%9C%20%EC%8B%A4%ED%96%89%ED%9B%84%20%ED%8C%8C%EC%9D%BC%EC%9D%98%20%EB%AA%A8%EB%93%A0%EB%8B%A8%EC%96%B4%20%EB%B6%88%EB%9F%AC%EC%98%A8%EB%92%A4%20%EB%AA%A8%EB%93%A0%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0%20.png?raw=true' width =900>
 
 # 9. 수준별단어보기
 
