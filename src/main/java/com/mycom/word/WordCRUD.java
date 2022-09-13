@@ -158,8 +158,6 @@ public class WordCRUD implements ICRUD {
         System.out.print("=> 원하는 레벨은? (1:초급, 2:중급, 3:고급, 4:초고급, 5:원어민): ");
         int level = s.nextInt();
         listAll(level);
-
-
     }
 
     @Override
@@ -167,6 +165,5 @@ public class WordCRUD implements ICRUD {
         System.out.print("=> 검색할 단어 입력: ");
         String keyword = s.next();//공백을 허용하지 않는 문자열 입력 받음
         listALL(keyword);//next()-> nextint()(버퍼에서 int만 뽑아먹음)는 next가 엔터버퍼에 남겨도 오류없음
-
     }
 }
