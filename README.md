@@ -24,11 +24,12 @@
 
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EC%A2%85%EB%A3%8C.png?raw=true' width =900>
 
+# Project1. Java CRUD project with file I/O part2
+
 # 7. 초기사전목록
 
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EC%B4%88%EA%B8%B0%20%EC%82%AC%EC%A0%84.png?raw=true' width =900>
 
-# Project1. Java CRUD project with file I/O part2
 
 # 8. 프로그램 새로 실행후 파일의 모든단어 불러온뒤 모든단어보기
 
