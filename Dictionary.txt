@@ -1,0 +1,12 @@
+3|superintendent|관리자, 감독관, 지시자
+1|electric|전기의, 전기를 생산하는
+2|equipment|장비, 용품
+1|pole|기둥, 장대
+1|formerly|이전의,예전에
+1| apple|사과
+4|vulnerable|취약한 ,상처입기 쉬운
+5|candor|솔직, 정직, 공평
+5|hgu|한동대학교
+4|dormant|잠자는, 잠재하는
+3|murky|모호한
+5| babgo|밥약속을 잡다
