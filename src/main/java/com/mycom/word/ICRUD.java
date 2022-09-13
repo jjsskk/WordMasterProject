@@ -10,6 +10,8 @@ public interface ICRUD {
     void searchWord();
 
     void searchLevel();
+
     void loadFile();
+
     void saveFile();
 }
