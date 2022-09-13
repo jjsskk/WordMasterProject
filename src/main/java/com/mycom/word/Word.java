@@ -54,8 +54,11 @@ public class Word {
         String slevel="";
         for(int i=0; i<level;i++)
             slevel += "*";
-        String str = String.format("%-5s",slevel)//3칸잡고 왼쪽 정렬
+        String str = String.format("%-6s",slevel)//3칸잡고 왼쪽 정렬
                 + String.format("%15s",word) + "  " + meaning;//15칸 잡고 오른쪽 정렬(조심)
         return str;
+    }
+    public String toFileString(){
+        return level+"|"+word+"|"+meaning;
     }
 }
