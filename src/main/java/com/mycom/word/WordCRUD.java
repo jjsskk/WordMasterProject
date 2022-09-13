@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.SimpleTimeZone;
 
+
 public class WordCRUD implements ICRUD {
     ArrayList<Word> list;
     Scanner s;
