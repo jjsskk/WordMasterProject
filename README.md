@@ -51,17 +51,17 @@
 
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/6.%EB%8B%A8%EC%96%B4%EC%82%AD%EC%A0%9C.png?raw=true' width =900>
 
-# 13. 수정삭제후 모든 단어보기
-
-<img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EC%88%98%EC%A0%95%EC%82%AD%EC%A0%9C%ED%9B%84%20list.png?raw=true' width =900>
-
-# 14. 파일저장
+# 13. 파일저장
 
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/7%ED%8C%8C%EC%9D%BC%20%EC%A0%80%EC%9E%A5.png?raw=true' width =900>
 
-# 15. 모든결과를 파일에 저장한후 사전사진
+# 14. 모든결과를 파일에 저장한후 사전사진
 
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EB%AA%A8%EB%93%A0%EA%B2%B0%EA%B3%BC%EB%A5%BC%20%EC%A0%80%EC%9E%A5%ED%95%9C%20%ED%9B%84%20%EC%82%AC%EC%A0%84%EC%82%AC%EC%A7%84.png?raw=true' width =900>
+
+# 15. 수정삭제후 모든 단어보기
+
+<img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EC%88%98%EC%A0%95%EC%82%AD%EC%A0%9C%ED%9B%84%20list.png?raw=true' width =900>
 
 
 
