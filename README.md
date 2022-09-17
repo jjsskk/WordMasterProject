@@ -31,7 +31,7 @@
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EC%B4%88%EA%B8%B0%20%EC%82%AC%EC%A0%84.png?raw=true' width =900>
 
 
-# 8. 프로그램 새로 실행후 파일의 모든단어 불러온뒤 모든단어보기
+# 8. 프로그램 첫 실행후 파일의 모든단어 불러온뒤 모든단어보기
 
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%83%88%EB%A1%9C%20%EC%8B%A4%ED%96%89%ED%9B%84%20%ED%8C%8C%EC%9D%BC%EC%9D%98%20%EB%AA%A8%EB%93%A0%EB%8B%A8%EC%96%B4%20%EB%B6%88%EB%9F%AC%EC%98%A8%EB%92%A4%20%EB%AA%A8%EB%93%A0%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0%20.png?raw=true' width =900>
 
@@ -59,7 +59,7 @@
 
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EB%AA%A8%EB%93%A0%EA%B2%B0%EA%B3%BC%EB%A5%BC%20%EC%A0%80%EC%9E%A5%ED%95%9C%20%ED%9B%84%20%EC%82%AC%EC%A0%84%EC%82%AC%EC%A7%84.png?raw=true' width =900>
 
-# 15. 수정삭제후 모든 단어보기
+# 15. 수정삭제후 프로그램 새로 실행후 모든 단어보기
 
 <img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EC%88%98%EC%A0%95%EC%82%AD%EC%A0%9C%ED%9B%84%20%EC%83%88%EB%A1%9C%EC%8B%A4%ED%96%89%ED%9B%84%EB%AA%A8%EB%93%A0%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0.png?raw=true' width =900>
 
