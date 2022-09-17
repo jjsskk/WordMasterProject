@@ -61,7 +61,7 @@
 
 # 15. 수정삭제후 모든 단어보기
 
-<img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EC%88%98%EC%A0%95%EC%82%AD%EC%A0%9C%ED%9B%84%20list.png?raw=true' width =900>
+<img src='https://github.com/jjsskk/WordMasterProject/blob/master/screenshot/%EC%88%98%EC%A0%95%EC%82%AD%EC%A0%9C%ED%9B%84%20%EC%83%88%EB%A1%9C%EC%8B%A4%ED%96%89%ED%9B%84%EB%AA%A8%EB%93%A0%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0.png?raw=true' width =900>
 
 
 
